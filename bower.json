@@ -1,0 +1,28 @@
+{
+	"name": "do-runtime",
+	"version": "0.1.0",
+	"main": "src/Runtime.js",
+	"license": "MIT",
+	"ignore": [
+		".DS_Store",
+		"Thumbs.db",
+		".nvm-version",
+		"node_modules",
+		"npm-debug.log",
+		"src/",
+		".editorconfig",
+		".gitignore",
+		".npmignore",
+		"do-runtime.sublime-project",
+		"do-runtime.sublime-workspace"
+	],
+	"keywords": [
+		"do",
+		"machine language",
+		"turing machine",
+		"runtime",
+		"scene graph",
+		"lightweight",
+		"javascript"
+	]
+}

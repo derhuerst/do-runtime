@@ -1,0 +1,32 @@
+{
+	"name": "do-runtime",
+	"description": "do-runtime is an open source the minimalist machine language Do.",
+	"version": "0.1.0",
+	"main": "src/Runtime.js",
+	"keywords": [
+		"do",
+		"machine language",
+		"turing machine",
+		"runtime",
+		"scene graph",
+		"lightweight",
+		"javascript"
+	],
+	"author": {
+		"name": "Jannis R",
+		"email": "mail@jannisr.de",
+		"url": "http://jannisr.de"
+	},
+	"homepage": "https://github.com/derhuerst/do-runtime",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/derhuerst/do-runtime.git"
+	},
+	"bugs": {
+		"url": "https://github.com/derhuerst/do-runtime/issues"
+	},
+	"licenses": {
+		"type": "MIT",
+		"url": "http://github.com/derhuerst/do-runtime/raw/master/LICENSE"
+	}
+}
