@@ -3,7 +3,7 @@
 [![npm version](https://img.shields.io/npm/v/do-runtime.svg)](https://www.npmjs.com/package/do-runtime)
 [![bower version](https://img.shields.io/bower/v/do-runtime.svg)](bower.json)
 
-This is an open source for the [minimalist machine language *Do*](https://gist.github.com/derhuerst/3e98c06d4251f7207870).
+This is an open source runtime for the [minimalist machine language *Do*](https://gist.github.com/derhuerst/3e98c06d4251f7207870).
 
 ***Do* is a fictive machine language** that reads, writes and jumps on a tape, **working like a [Turing machine](http://en.wikipedia.org/wiki/Turing_machine)**. Read [more about *Do*](https://gist.github.com/derhuerst/3e98c06d4251f7207870).
 
