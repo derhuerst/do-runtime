@@ -1,6 +1,5 @@
 {
 	"name": "do-runtime",
-	"version": "0.1.0",
 	"main": "src/Runtime.js",
 	"license": "MIT",
 	"ignore": [

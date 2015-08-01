@@ -25,8 +25,5 @@
 	"bugs": {
 		"url": "https://github.com/derhuerst/do-runtime/issues"
 	},
-	"licenses": {
-		"type": "MIT",
-		"url": "http://github.com/derhuerst/do-runtime/raw/master/LICENSE"
-	}
+	"licenses": "MIT"
 }
