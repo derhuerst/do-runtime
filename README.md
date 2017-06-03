@@ -1,7 +1,11 @@
 # do-runtime
 
+**Deprecated.**
+
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
 [![npm version](https://img.shields.io/npm/v/do-runtime.svg)](https://www.npmjs.com/package/do-runtime)
 [![bower version](https://img.shields.io/bower/v/do-runtime.svg)](bower.json)
+![MIT-licensed](https://img.shields.io/github/license/derhuerst/do-runtimesvg)
 
 This is an open source runtime for the [minimalist machine language *Do*](https://gist.github.com/derhuerst/3e98c06d4251f7207870).
 
@@ -52,9 +56,3 @@ When you call `run`, the *Do* runtime will execute the program until it jumps to
 ```shell
 npm install do-runtime
 ```
-
-
-
-## Contributing
-
-If you **have a question**, **found a bug** or want to **propose a feature**, have a look at [the issues page](https://github.com/derhuerst/do-runtime/issues).
